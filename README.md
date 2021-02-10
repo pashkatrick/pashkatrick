@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, [I'm Paul](http://pshktrck.ru/) 👋
 
 <!--
 **pashkatrick/pashkatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![pashkatrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=pashkatrick&show_icons=true)](https://github.com/pashkatrick/github-readme-stats)
